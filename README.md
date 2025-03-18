@@ -29,5 +29,25 @@ This project is a personal portfolio website designed to showcase my skills, edu
 
 
 
+#personal portfoliousing HTML and CSS
+# My Personal Portfolio
+
+Welcome to my personal portfolio website! This repository contains the source code for my portfolio, built using HTML.
+
+## Table of Contents
+
+- [index](#index)
+- [hobbies](hobbies)
+- [Contact](#sociallinks)
+
+## Overview
+
+This project is a personal portfolio website designed to showcase my skills, education, and hobby. It is built with HTML and css and follows modern web development practices to ensure a  user-friendly experience.
+
+## Features
 
 
+- **Project Showcase:** Displays personal projects with descriptions.
+- **Contact Section:** Provides a way to get in touch through social links.
+
+![Screenshot 2025-03-18 203818](https://github.com/user-attachments/assets/4bf6c474-8680-42eb-b4cd-37c08cc3f2c4)
